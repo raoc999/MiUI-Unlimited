@@ -3,8 +3,8 @@
     <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
     <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
     <string name="app_name">MiUI Unlimited</string>
-    <string name="check_text_checkDeviceInfo">Checking Device Info</string>
-    <string name="check_text_checkRootStatus">Checking Root Status</string>
+    <string name="check_text_checkDeviceInfo">Aygıt Bilgisini Denetle</string>
+    <string name="check_text_checkRootStatus">Kök Durumunu Kontrol Et</string>
     <string name="check_text_rootDenied">Root Access Denied!</string>
     <string name="check_text_deviceNotSupported">Your device is not supported!</string>
     <string name="check_alertRootDenied_message">"Your device is not rooted or root access has been denied!\nPlease enable root access on your device in order to use this app."</string>
